@@ -1,0 +1,5 @@
+* * * * * /home/httpd/fcgi-bin/a197596_1/php-cli /home/httpd/vhosts/warcoin.tk/httpdocs/include/siteScripts/loteryTimeCheck.php
+* * * * * sleep 15; /home/httpd/fcgi-bin/a197596_1/php-cli /home/httpd/vhosts/warcoin.tk/httpdocs/include/siteScripts/loteryTimeCheck.php
+* * * * * sleep 30; /home/httpd/fcgi-bin/a197596_1/php-cli /home/httpd/vhosts/warcoin.tk/httpdocs/include/siteScripts/loteryTimeCheck.php
+* * * * * sleep 45; /home/httpd/fcgi-bin/a197596_1/php-cli /home/httpd/vhosts/warcoin.tk/httpdocs/include/siteScripts/loteryTimeCheck.php
+* * * * * /home/httpd/fcgi-bin/a197596_1/php-cli /home/httpd/vhosts/warcoin.tk/httpdocs/include/siteScripts/fakeStats.php
